@@ -6,6 +6,7 @@
 #include <algorithm>
 #include <cmath>
 #include <queue> 
+#include <cstdint>
 
 #include "SortTech.h"
 #include "SortError.h"
